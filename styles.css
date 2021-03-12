@@ -79,3 +79,9 @@ td{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-top: auto;
 }
+
+h5{
+    color: wheat; 
+    text-align: center;
+    vertical-align: top;
+}
